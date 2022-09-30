@@ -1,0 +1,350 @@
+[
+  {
+    "line": 2,
+    "elements": [
+      {
+        "start_timestamp": "2022-09-30T11:41:43.831Z",
+        "before": [
+          {
+            "result": {
+              "duration": 2216148900,
+              "status": "passed"
+            },
+            "match": {
+              "location": "HomePageSteps.before(Scenario)"
+            }
+          }
+        ],
+        "line": 5,
+        "name": "Check Blog Link displayed",
+        "description": "",
+        "id": "home-page-verifications;check-blog-link-displayed",
+        "after": [
+          {
+            "result": {
+              "duration": 2423259500,
+              "status": "passed"
+            },
+            "match": {
+              "location": "HomePageSteps.after(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 7091229800,
+              "status": "passed"
+            },
+            "before": [
+              {
+                "result": {
+                  "duration": 2006305700,
+                  "status": "passed"
+                },
+                "match": {
+                  "location": "HomePageSteps.beforeStep()"
+                }
+              }
+            ],
+            "line": 6,
+            "name": "A101 web sayfasına git",
+            "match": {
+              "location": "HomePageSteps.aUserNavigatesToHomePage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 211821000,
+              "status": "passed"
+            },
+            "before": [
+              {
+                "result": {
+                  "duration": 2001957200,
+                  "status": "passed"
+                },
+                "match": {
+                  "location": "HomePageSteps.beforeStep()"
+                }
+              }
+            ],
+            "line": 7,
+            "name": "Giyim ve aksesuar bölümüne tıkla",
+            "match": {
+              "location": "HomePageSteps.giyimVeAksesuar()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 4127514600,
+              "status": "passed"
+            },
+            "before": [
+              {
+                "result": {
+                  "duration": 2012199000,
+                  "status": "passed"
+                },
+                "match": {
+                  "location": "HomePageSteps.beforeStep()"
+                }
+              }
+            ],
+            "line": 8,
+            "name": "Dizaltı çorap bölümüne tıkla",
+            "match": {
+              "location": "HomePageSteps.dizAltıÇorap()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 2118004600,
+              "status": "passed"
+            },
+            "before": [
+              {
+                "result": {
+                  "duration": 2006141500,
+                  "status": "passed"
+                },
+                "match": {
+                  "location": "HomePageSteps.beforeStep()"
+                }
+              }
+            ],
+            "line": 9,
+            "name": "Random urun sec",
+            "match": {
+              "location": "HomePageSteps.randomSec()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 22555900,
+              "status": "passed"
+            },
+            "before": [
+              {
+                "result": {
+                  "duration": 2008306800,
+                  "status": "passed"
+                },
+                "match": {
+                  "location": "HomePageSteps.beforeStep()"
+                }
+              }
+            ],
+            "line": 10,
+            "name": "Seçilen ürün siyah mı kontrol et",
+            "match": {
+              "location": "HomePageSteps.siyahMı()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 94601700,
+              "status": "passed"
+            },
+            "before": [
+              {
+                "result": {
+                  "duration": 2007192600,
+                  "status": "passed"
+                },
+                "match": {
+                  "location": "HomePageSteps.beforeStep()"
+                }
+              }
+            ],
+            "line": 11,
+            "name": "Sepete ekle",
+            "match": {
+              "location": "HomePageSteps.sepeteEkle()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 917804200,
+              "status": "passed"
+            },
+            "before": [
+              {
+                "result": {
+                  "duration": 2011986100,
+                  "status": "passed"
+                },
+                "match": {
+                  "location": "HomePageSteps.beforeStep()"
+                }
+              }
+            ],
+            "line": 12,
+            "name": "Sepeti goruntule",
+            "match": {
+              "location": "HomePageSteps.sepetGoruntule()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 6283095200,
+              "status": "passed"
+            },
+            "before": [
+              {
+                "result": {
+                  "duration": 2007099900,
+                  "status": "passed"
+                },
+                "match": {
+                  "location": "HomePageSteps.beforeStep()"
+                }
+              }
+            ],
+            "line": 13,
+            "name": "Sepeti onayla",
+            "match": {
+              "location": "HomePageSteps.sepetOnayla()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 3975870800,
+              "status": "passed"
+            },
+            "before": [
+              {
+                "result": {
+                  "duration": 2003236200,
+                  "status": "passed"
+                },
+                "match": {
+                  "location": "HomePageSteps.beforeStep()"
+                }
+              }
+            ],
+            "line": 14,
+            "name": "Uye Olmadan devam et",
+            "match": {
+              "location": "HomePageSteps.uyeOlmadanDevamEt()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 8847610100,
+              "status": "passed"
+            },
+            "before": [
+              {
+                "result": {
+                  "duration": 2013137900,
+                  "status": "passed"
+                },
+                "match": {
+                  "location": "HomePageSteps.beforeStep()"
+                }
+              }
+            ],
+            "line": 15,
+            "name": "Email gir",
+            "match": {
+              "location": "HomePageSteps.emailGir()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 6909147100,
+              "status": "passed"
+            },
+            "before": [
+              {
+                "result": {
+                  "duration": 2011801600,
+                  "status": "passed"
+                },
+                "match": {
+                  "location": "HomePageSteps.beforeStep()"
+                }
+              }
+            ],
+            "line": 16,
+            "name": "Devam Et\u0027e tıkla",
+            "match": {
+              "location": "HomePageSteps.devamEt()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 67902800,
+              "status": "passed"
+            },
+            "before": [
+              {
+                "result": {
+                  "duration": 2002522000,
+                  "status": "passed"
+                },
+                "match": {
+                  "location": "HomePageSteps.beforeStep()"
+                }
+              }
+            ],
+            "line": 17,
+            "name": "Yeni adres olustur",
+            "match": {
+              "location": "HomePageSteps.adresOlustur()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 168698138000,
+              "status": "passed"
+            },
+            "before": [
+              {
+                "result": {
+                  "duration": 2009186700,
+                  "status": "passed"
+                },
+                "match": {
+                  "location": "HomePageSteps.beforeStep()"
+                }
+              }
+            ],
+            "line": 18,
+            "name": "Adres bilgileri girilir",
+            "match": {
+              "location": "HomePageSteps.adresBilgileri()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@home_page"
+          }
+        ]
+      }
+    ],
+    "name": "Home Page Verifications",
+    "description": "",
+    "id": "home-page-verifications",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/features/HomePage/02_VerifyBlogLnk_HomePage.feature",
+    "tags": []
+  }
+]
