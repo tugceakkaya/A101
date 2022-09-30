@@ -1,4 +1,4 @@
-<h2>A101 WEB OTOMASYON TEST CASE </h2><br><br
+<h2>A101 WEB OTOMASYON TEST CASE </h2><br>
 1- https://www.a101.com.tr/ web sayfasına gidilir<br>
 2- Giyim & Aksesuar seçilir.<br>
 3- Kadın iç giyim >Dizaltı çorap 'a tıklanır.<br>
